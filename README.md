@@ -12,7 +12,8 @@
     * Machine Learning 5종: Logistic Regression, Random Forest, XGBoost, LGBM, CatBoost
     * Deep Learning 2종: Multi-Layer Perception (MLP), Convolutional Neural Network (CNN)
  
-      ![화면 캡처 2024-12-05 044855](https://github.com/user-attachments/assets/161a41aa-be64-4303-8aac-1d1cd79fb645)
+      ![화면 캡처 2024-12-05 045041](https://github.com/user-attachments/assets/3a472bf7-3dd3-43d8-98f1-34703872d828)
+
 ---
 * XAI (Explainable AI) 분석:
    * SHAP (SHapley Additive exPlanations)**을 활용하여 모델의 예측 결과를 해석
