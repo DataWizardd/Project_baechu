@@ -18,5 +18,6 @@
    * SHAP (SHapley Additive exPlanations)**을 활용하여 모델의 예측 결과를 해석
    * SHAP 값을 통해 각 변수의 기여도를 분석하고, 기부 여부 예측에 가장 큰 영향을 미치는 주요 변수를 식별
 --
+![화면 캡처 2024-12-05 050057](https://github.com/user-attachments/assets/2bcd88be-a64e-4850-ba18-f525b8d55de5)
 
 ![화면 캡처 2024-12-05 050041 - 복사본](https://github.com/user-attachments/assets/785f66c2-c1c3-47fe-9884-c38708969d80)
