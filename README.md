@@ -20,4 +20,4 @@
 --
 ![화면 캡처 2024-12-05 050057](https://github.com/user-attachments/assets/2bcd88be-a64e-4850-ba18-f525b8d55de5)
 
-![화면 캡처 2024-12-05 050041 - 복사본](https://github.com/user-attachments/assets/785f66c2-c1c3-47fe-9884-c38708969d80)
+
