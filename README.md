@@ -11,7 +11,7 @@
 * 활용 알고리즘 후보 :
     * Machine Learning 5종: Logistic Regression, Random Forest, XGBoost, LGBM, CatBoost
     * Deep Learning 2종: Multi-Layer Perception (MLP), Convolutional Neural Network (CNN)
- *
+ 
       ![화면 캡처 2024-12-05 044855](https://github.com/user-attachments/assets/161a41aa-be64-4303-8aac-1d1cd79fb645)
 ---
 * XAI (Explainable AI) 분석:
@@ -20,7 +20,7 @@
 ---
 (상위 8개 변수 제외)
 
-*
+
 ![화면 캡처 2024-12-05 050057](https://github.com/user-attachments/assets/2bcd88be-a64e-4850-ba18-f525b8d55de5)
 
 
